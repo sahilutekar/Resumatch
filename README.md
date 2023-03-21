@@ -1,4 +1,4 @@
-# Resumatch
+# Resumatch-NLP
 A combination of "resume" and "match," this name highlights the project's focus on comparing the similarity between a job description and a resume
 This code is an example of a resume parser that uses docx2txt to extract the text from a job description and a resume in .docx format. It then uses CountVectorizer and cosine_similarity from the scikit-learn library to compare the similarity between the two documents.
 Dependencies
